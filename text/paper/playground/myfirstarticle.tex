@@ -1,6 +1,8 @@
 \documentclass{article}
 
 \usepackage{blindtext}
+\usepackage[flushleft]{threeparttable}
+\usepackage{booktabs}
 
 \begin{document}
 
@@ -26,7 +28,7 @@ University of Zurich}\\[1cm]
 \hline
 {Authors (Student-ID):} & { Yaejin Kim (19-771-492)}\\
 & { Philipp Pag (15-056-328)}\\
-& { Matthias Hafner (XXXXXXXXXXX) }\\
+& { Matthias Hafner (08-055-741) }\\
 \hline \\
 \end{tabular}
 
@@ -51,6 +53,31 @@ The purpose of this report is to examine the risk and return relation in the Swi
 \newpage
 
 \blindtext
+
+\newpage
+
+\begin{table} [!h] \centering 
+  \begin{threeparttable}
+    \caption{Value Portfolio}
+     \begin{tabular}{ccc}
+        \toprule
+
+             & 01.01.1998 & 01.01.2008\\ \midrule
+Nestle  & Growth & Growth     \\
+Roche & Growth & Growth        \\ 
+UBS & Value & Growth \\
+Novartis & Growth & Growth
+\\ \bottomrule
+
+
+
+
+
+
+
+\end{tabular}
+\end{threeparttable}
+\end{table}
 
 \newpage
 
