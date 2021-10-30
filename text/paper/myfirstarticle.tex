@@ -4,6 +4,17 @@
 \usepackage[flushleft]{threeparttable}
 \usepackage{booktabs}
 
+% bibliography
+\usepackage[
+backend=biber,
+style=bwl-FU,
+url=false,
+doi=false,
+eprint=false
+]{biblatex}
+\addbibresource{library.bib}
+
+
 \begin{document}
 
 
@@ -21,7 +32,7 @@
 {\bf \large Fall Semester 2021\\
 University of Zurich}\\[1cm]
 
-{\large \bf 21 October 2021}\\[3cm]
+{\large \bf \today }\\[3cm]
 
 
 \begin{tabular}{ll}
@@ -46,7 +57,8 @@ The purpose of this report is to examine the risk and return relation in the Swi
 
 \newpage
 
-\section{Table of Content}
+
+\tableofcontents
 \newpage
 
 \section{Introduction}
@@ -64,13 +76,14 @@ The purpose of this report is to examine the risk and return relation in the Swi
     \caption{Value Portfolio}
      \begin{tabular}{ccc}
         \toprule
-
-             & 01.01.1998 & 01.01.2008\\ \midrule
-Nestle  & Growth & Growth     \\
-Roche & Growth & Growth        \\ 
-UBS & Value & Growth \\
-Novartis & Growth & Growth
-\\ \bottomrule
+			    	& 01.01.1998 & 01.01.2008\\ 
+		\midrule
+		Nestle  	& Growth 	& Growth     \\
+		Roche 		& Growth 	& Growth        \\ 
+		UBS 		& Value 	& Growth \\
+		Novartis 	& Growth 	& Growth
+		\\ 
+		\bottomrule
 
 \end{tabular}
 \end{threeparttable}
