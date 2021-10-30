@@ -4,6 +4,11 @@
 \usepackage[flushleft]{threeparttable}
 \usepackage{booktabs}
 
+\usepackage[capposition=top]{floatrow}
+
+
+\usepackage{graphicx}
+
 % bibliography
 \usepackage[
 backend=bibtex,
@@ -72,25 +77,34 @@ The purpose of this report is to examine the risk and return relation in the Swi
 
 \section{Results}
 
-\begin{table} [!h] \centering 
-  \begin{threeparttable}
-    \caption{Value Portfolio}
-     \begin{tabular}{ccc}
-        \toprule
-			    	& 01.01.1998 & 01.01.2008\\ 
-		\midrule
-		Nestle  	& Growth 	& Growth     \\
-		Roche 		& Growth 	& Growth        \\ 
-		UBS 		& Value 	& Growth \\
-		Novartis 	& Growth 	& Growth
-		\\ 
-		\bottomrule
 
-\end{tabular}
-\end{threeparttable}
+\begin{table} [!h] \centering 
+	\begin{threeparttable}
+		\caption{Value Portfolio}
+     	\begin{tabular}{ccc}
+        	\toprule
+				    	& 01.01.1998 & 01.01.2008\\ 
+			\midrule
+			Nestle  	& Growth 	& Growth \\
+			Roche 		& Growth 	& Growth \\ 
+			UBS 		& Value 	& Growth \\
+			Novartis 	& Growth 	& Growth \\ 
+			\bottomrule
+		\end{tabular}
+		\footnotesize Note: Data collected using Bloomberg terminal.
+	\end{threeparttable}
 \end{table}
 
 \blindtext
+
+\begin{figure} [!h]
+	\caption{Procedure of each treatment}
+ 	\begin{centering}
+		\includegraphics[width=0.8\linewidth]{phases} \\
+	\end{centering}
+	\footnotesize Note: Merger to monopoly not possible. In addtion, only one merger phase allowed. 
+\end{figure}
+
 \newpage
 
 \section{Discussion}
