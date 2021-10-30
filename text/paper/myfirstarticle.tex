@@ -6,7 +6,7 @@
 
 % bibliography
 \usepackage[
-backend=biber,
+backend=bibtex,
 style=bwl-FU,
 url=false,
 doi=false,
@@ -66,7 +66,8 @@ The purpose of this report is to examine the risk and return relation in the Swi
 \newpage
 
 \section{Literatur Review}
-\blindtext
+
+\cite{Milgrom1982} and \cite{Gormsen2020} argue \blindtext
 \newpage
 
 \section{Results}
@@ -105,7 +106,8 @@ The purpose of this report is to examine the risk and return relation in the Swi
 \section{References}
 \begingroup
 \renewcommand{\section}[2]{}
-\bibliography{references}
+\nocite{*}
+\printbibliography
 \endgroup
 
 \newpage

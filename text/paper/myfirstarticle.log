@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.8.16)  30 OCT 2021 17:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.8.16)  30 OCT 2021 17:34
 entering extended mode
 **./myfirstarticle.tex
 (myfirstarticle.tex
@@ -294,10 +294,20 @@ Package: xparse 2020-10-27 L3 Experimental document command parser
 ("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"))
 File: blx-case-expl3 2020/08/23 v3.15a expl3 case changing code for biblatex
 )
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-bibtex.def"
+File: blx-bibtex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def"
+ ("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def"
 File: biblatex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
 \c@textcitecount=\count387
 \c@textcitetotal=\count388
@@ -386,12 +396,21 @@ File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `myfirstarticle.bcf'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `myfirstarticle-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'myfirstarticle.bbl' found.
 
-(myfirstarticle.bbl)
+(myfirstarticle.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Milgrom1982':
+(biblatex)                - Invalid format of field 'month'.
+
+)
 Package biblatex Info: Reference section=0 on input line 18.
 Package biblatex Info: Reference segment=0 on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -400,53 +419,32 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 38.
  [1
 
-{C:/Users/matth/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] (myfirstart
-icle.toc)
+{C:/Users/matth/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+(myfirstarticle.toc)
 \tf@toc=\write4
 \openout4 = `myfirstarticle.toc'.
 
- [3] [4] [5] [6] [7]
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.108 \bibliography
-                   {references}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[8] (myfirstarticle.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                myfirstarticle
-(biblatex)                and rerun LaTeX afterwards.
-
+ [3] [4] [5] [6] [7] [8] (myfirstarticle.aux)
 Package logreq Info: Writing requests to 'myfirstarticle.run.xml'.
 \openout1 = `myfirstarticle.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8182 strings out of 479832
- 156735 string characters out of 2880873
- 849825 words of memory out of 3000000
- 25103 multiletter control sequences out of 15000+200000
- 537204 words of font info for 36 fonts, out of 3000000 for 9000
+ 8456 strings out of 479832
+ 162052 string characters out of 2880873
+ 642524 words of memory out of 3000000
+ 25372 multiletter control sequences out of 15000+200000
+ 537550 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,9n,73p,749b,755s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 65i,9n,73p,1858b,1147s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
 m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr17.pfb>
-Output written on myfirstarticle.pdf (8 pages, 71264 bytes).
+1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmti10.pfb>
+Output written on myfirstarticle.pdf (8 pages, 87820 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
+ 49 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
