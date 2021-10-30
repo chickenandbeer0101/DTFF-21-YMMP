@@ -1,63 +1,56 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.10.25)  25 OCT 2021 14:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.8.16)  30 OCT 2021 12:16
 entering extended mode
 **./myfirstarticle.tex
 (myfirstarticle.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-10-18>
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/blin
-dtext/blindtext.sty
+("C:\Program Files\MiKTeX\tex/latex/blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
-s/xspace.sty
+("C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count190
-\c@Blindtext=\count191
-\c@blind@countparstart=\count192
-\blind@countxx=\count193
-\blindtext@numBlindtext=\count194
-\blind@countyy=\count195
-\c@blindlist=\count196
-\c@blindlistlevel=\count197
-\c@blindlist@level=\count198
-\blind@listitem=\count199
-\c@blind@listcount=\count266
-\c@blind@levelcount=\count267
-\blind@mathformula=\count268
-\blind@Mathformula=\count269
-\c@blind@randomcount=\count270
-\c@blind@randommax=\count271
-\c@blind@pangramcount=\count272
-\c@blind@pangrammax=\count273
+\c@blindtext=\count183
+\c@Blindtext=\count184
+\c@blind@countparstart=\count185
+\blind@countxx=\count186
+\blindtext@numBlindtext=\count187
+\blind@countyy=\count188
+\c@blindlist=\count189
+\c@blindlistlevel=\count190
+\c@blindlist@level=\count191
+\blind@listitem=\count192
+\c@blind@listcount=\count193
+\c@blind@levelcount=\count194
+\blind@mathformula=\count195
+\blind@Mathformula=\count196
+\c@blind@randomcount=\count197
+\c@blind@randommax=\count198
+\c@blind@pangramcount=\count199
+\c@blind@pangrammax=\count266
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thre
-eparttable/threeparttable.sty
+("C:\Program Files\MiKTeX\tex/latex/threeparttable\threeparttable.sty"
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box50
+\@tempboxb=\box47
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/book
-tabs/booktabs.sty
+("C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty"
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen139
 \lightrulewidth=\dimen140
@@ -69,20 +62,20 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen146
 \cmidrulekern=\dimen147
 \defaultaddspace=\dimen148
-\@cmidla=\count274
-\@cmidlb=\count275
+\@cmidla=\count267
+\@cmidlb=\count268
 \@aboverulesep=\dimen149
 \@belowrulesep=\dimen150
-\@thisruleclass=\count276
-\@lastruleclass=\count277
+\@thisruleclass=\count269
+\@lastruleclass=\count270
 \@thisrulewidth=\dimen151
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3ba
-ckend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count278
-\l__pdf_internal_box=\box51
-) (myfirstarticle.aux)
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count271
+\l__pdf_internal_box=\box48
+)
+(myfirstarticle.aux)
 \openout1 = `myfirstarticle.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
@@ -105,27 +98,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 27.
  [1
 
-{/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdf
-tex.map}] [2] [3] [4]
-[5]
-No file myfirstarticle.bbl.
-[6] (myfirstarticle.aux) ) 
+{C:/Users/matth/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3] [4] [5]
+ [6] [7] (myfirstarticle.bbl) [8] (myfirstarticle.aux) ) 
 Here is how much of TeX's memory you used:
- 730 strings out of 478908
- 13327 string characters out of 2842916
- 305936 words of memory out of 3000000
- 18670 multiletter control sequences out of 15000+600000
- 405546 words of font info for 34 fonts, out of 8000000 for 9000
+ 711 strings out of 479832
+ 12225 string characters out of 2880873
+ 278518 words of memory out of 3000000
+ 17731 multiletter control sequences out of 15000+200000
+ 537204 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,52p,347b,274s stack positions out of 5000i,500n,10000p,200000b,80000s
-</Users/PILLEE/Library/Application Support/MiKTeX/tex
-mfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/PILLEE/Library/Ap
-plication Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pf
-b></Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/
-public/amsfonts/cm/cmr17.pfb>
-Output written on myfirstarticle.pdf (6 pages, 55091 bytes).
+ 52i,9n,59p,329b,265s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr17.pfb>
+Output written on myfirstarticle.pdf (8 pages, 56763 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 41 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
