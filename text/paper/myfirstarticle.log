@@ -1,0 +1,506 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.8.16)  30 OCT 2021 19:01
+entering extended mode
+**./myfirstarticle.tex
+(myfirstarticle.tex
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+("C:\Program Files\MiKTeX\tex/latex/blindtext\blindtext.sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+("C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count183
+\c@Blindtext=\count184
+\c@blind@countparstart=\count185
+\blind@countxx=\count186
+\blindtext@numBlindtext=\count187
+\blind@countyy=\count188
+\c@blindlist=\count189
+\c@blindlistlevel=\count190
+\c@blindlist@level=\count191
+\blind@listitem=\count192
+\c@blind@listcount=\count193
+\c@blind@levelcount=\count194
+\blind@mathformula=\count195
+\blind@Mathformula=\count196
+\c@blind@randomcount=\count197
+\c@blind@randommax=\count198
+\c@blind@pangramcount=\count199
+\c@blind@pangrammax=\count266
+)
+("C:\Program Files\MiKTeX\tex/latex/threeparttable\threeparttable.sty"
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box47
+)
+("C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count267
+\@cmidlb=\count268
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count269
+\@lastruleclass=\count270
+\@thisrulewidth=\dimen151
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen152
+\Gin@req@width=\dimen153
+)
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2020/08/23 v3.15a programmable bibliographies (PK/MW)
+
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+)
+("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+("C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty"
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count272
+
+("C:\Program Files\MiKTeX\tex/latex/logreq\logreq.def"
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count273
+\c@listtotal=\count274
+\c@listcount=\count275
+\c@liststart=\count276
+\c@liststop=\count277
+\c@citecount=\count278
+\c@citetotal=\count279
+\c@multicitecount=\count280
+\c@multicitetotal=\count281
+\c@instcount=\count282
+\c@maxnames=\count283
+\c@minnames=\count284
+\c@maxitems=\count285
+\c@minitems=\count286
+\c@citecounter=\count287
+\c@maxcitecounter=\count288
+\c@savedcitecounter=\count289
+\c@uniquelist=\count290
+\c@uniquename=\count291
+\c@refsection=\count292
+\c@refsegment=\count293
+\c@maxextratitle=\count294
+\c@maxextratitleyear=\count295
+\c@maxextraname=\count296
+\c@maxextradate=\count297
+\c@maxextraalpha=\count298
+\c@abbrvpenalty=\count299
+\c@highnamepenalty=\count300
+\c@lownamepenalty=\count301
+\c@maxparens=\count302
+\c@parenlevel=\count303
+\blx@tempcnta=\count304
+\blx@tempcntb=\count305
+\blx@tempcntc=\count306
+\blx@maxsection=\count307
+\blx@maxsegment@0=\count308
+\blx@notetype=\count309
+\blx@parenlevel@text=\count310
+\blx@parenlevel@foot=\count311
+\blx@sectionciteorder@0=\count312
+\blx@entrysetcounter=\count313
+\blx@biblioinstance=\count314
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language79
+\c@mincomprange=\count315
+\c@maxcomprange=\count316
+\c@mincompwidth=\count317
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2020/08/23 v3.15a biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'bwl-FU.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count318
+\c@savedafterword=\count319
+\c@annotator=\count320
+\c@savedannotator=\count321
+\c@author=\count322
+\c@savedauthor=\count323
+\c@bookauthor=\count324
+\c@savedbookauthor=\count325
+\c@commentator=\count326
+\c@savedcommentator=\count327
+\c@editor=\count328
+\c@savededitor=\count329
+\c@editora=\count330
+\c@savededitora=\count331
+\c@editorb=\count332
+\c@savededitorb=\count333
+\c@editorc=\count334
+\c@savededitorc=\count335
+\c@foreword=\count336
+\c@savedforeword=\count337
+\c@holder=\count338
+\c@savedholder=\count339
+\c@introduction=\count340
+\c@savedintroduction=\count341
+\c@namea=\count342
+\c@savednamea=\count343
+\c@nameb=\count344
+\c@savednameb=\count345
+\c@namec=\count346
+\c@savednamec=\count347
+\c@translator=\count348
+\c@savedtranslator=\count349
+\c@shortauthor=\count350
+\c@savedshortauthor=\count351
+\c@shorteditor=\count352
+\c@savedshorteditor=\count353
+\c@labelname=\count354
+\c@savedlabelname=\count355
+\c@institution=\count356
+\c@savedinstitution=\count357
+\c@lista=\count358
+\c@savedlista=\count359
+\c@listb=\count360
+\c@savedlistb=\count361
+\c@listc=\count362
+\c@savedlistc=\count363
+\c@listd=\count364
+\c@savedlistd=\count365
+\c@liste=\count366
+\c@savedliste=\count367
+\c@listf=\count368
+\c@savedlistf=\count369
+\c@location=\count370
+\c@savedlocation=\count371
+\c@organization=\count372
+\c@savedorganization=\count373
+\c@origlocation=\count374
+\c@savedoriglocation=\count375
+\c@origpublisher=\count376
+\c@savedorigpublisher=\count377
+\c@publisher=\count378
+\c@savedpublisher=\count379
+\c@language=\count380
+\c@savedlanguage=\count381
+\c@origlanguage=\count382
+\c@savedoriglanguage=\count383
+\c@pageref=\count384
+\c@savedpageref=\count385
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+)
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-10-27 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count386
+\l__pdf_internal_box=\box48
+))
+Package biblatex Info: expl3
+(biblatex)             2020-10-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+Package biblatex Info: Trying to load expl3 case changing code...
+Package biblatex Info: ... file 'blx-case-expl3.def' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.def"
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"))
+File: blx-case-expl3 2020/08/23 v3.15a expl3 case changing code for biblatex
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-bibtex.def"
+File: blx-bibtex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ ("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+\c@textcitecount=\count387
+\c@textcitetotal=\count388
+\c@textcitemaxnames=\count389
+\c@biburlbigbreakpenalty=\count390
+\c@biburlbreakpenalty=\count391
+\c@biburlnumpenalty=\count392
+\c@biburlucpenalty=\count393
+\c@biburllcpenalty=\count394
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count395
+)
+Package biblatex Info: Trying to load bibliography style 'bwl-FU'...
+Package biblatex Info: ... file 'bwl-FU.bbx' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex-bwl\bwl-FU.bbx"
+File: bwl-FU.bbx 2012/05/19 v0.02 biblatex bibliography style
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx"
+File: authoryear.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx"
+File: standard.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count396
+\c@bbx:relatedtotal=\count397
+)))
+Package biblatex Info: Trying to load citation style 'bwl-FU'...
+Package biblatex Info: ... file 'bwl-FU.cbx' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex-bwl\bwl-FU.cbx"
+File: bwl-FU.cbx 2012/05/19 v0.02 biblatex citation style
+Package biblatex Info: Trying to load citation style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.cbx' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\authoryear.cbx"
+File: authoryear.cbx 2020/08/23 v3.15a biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Redefining '\parencite'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg"
+File: biblatex.cfg 
+))
+\@quotelevel=\count398
+\@quotereset=\count399
+
+(myfirstarticle.aux)
+\openout1 = `myfirstarticle.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count400
+\scratchdimen=\dimen154
+\scratchbox=\box49
+\nofMPsegments=\count401
+\nofMParguments=\count402
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count403
+\MPscratchDim=\dimen155
+\MPnumerator=\count404
+\makeMPintoPDFobject=\count405
+\everyMPtoPDFconversion=\toks17
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `myfirstarticle-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'myfirstarticle.bbl' found.
+
+(myfirstarticle.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'Milgrom1982':
+(biblatex)                - Invalid format of field 'month'.
+
+)
+Package biblatex Info: Reference section=0 on input line 24.
+Package biblatex Info: Reference segment=0 on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 32.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 32.
+ [1
+
+{C:/Users/matth/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 63.
+ [2]
+(myfirstarticle.toc)
+\tf@toc=\write4
+\openout4 = `myfirstarticle.toc'.
+
+ [3] [4] [5]
+<phases.png, id=25, 435.87843pt x 66.2475pt>
+File: phases.png Graphic file (type png)
+<use phases.png>
+Package pdftex.def Info: phases.png  used on input line 121.
+(pdftex.def)             Requested size: 276.00105pt x 41.94841pt.
+ [6 <./phases.png>] [7] [8] (myfirstarticle.aux)
+Package logreq Info: Writing requests to 'myfirstarticle.run.xml'.
+\openout1 = `myfirstarticle.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9250 strings out of 479832
+ 172794 string characters out of 2880873
+ 656095 words of memory out of 3000000
+ 26129 multiletter control sequences out of 15000+200000
+ 540665 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 66i,11n,73p,1858b,1151s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+0600.pk> <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.
+pfb>
+Output written on myfirstarticle.pdf (8 pages, 136146 bytes).
+PDF statistics:
+ 72 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
