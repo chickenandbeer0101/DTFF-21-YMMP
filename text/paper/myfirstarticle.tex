@@ -5,6 +5,15 @@
 \usepackage[flushleft]{threeparttable}
 \usepackage{booktabs}
 \usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{booktabs,dcolumn} 
+\usepackage{pgf}
+
+% using dcolumn
+\newcolumntype{d}[1]{D..{#1}}
+\newcommand\mc[1]{\multicolumn{1}{c}{#1}}
+
+
 
 
 
@@ -56,6 +65,28 @@ The purpose of this report is to examine the risk and return relation in the Swi
 \section{Results}
 
 
+
+
+\begin{table} [!h] \centering
+	\caption{Expansion coefficients} \
+
+	\begin{tabular}{@{} l *{3}{d{2.7}} @{}}
+	\toprule
+ 	$n$ & \mc{$\nu=1/3$} & \mc{$\nu=1/5$} & \mc{$\nu=1/7$} \\
+	\midrule
+   	1 &         200.644 &         -3.53 &         -3.73132 \\
+   	2 &          1.002223 &          2.83 &          30.4643\\
+   	3 &          0.0613 &         -1.8256 &         -3.09032 \\
+   	4 &         -0.410 &          0.7144 &          2.45 \\
+  	5 &          0.39283 &          0.167333 &         -1.5920 \\
+  	6 &         -10.25 &         -0.6858 &          0.6627 \\
+  	7 &          0.1225333 &          0.8 &          0.1630234 \\
+	\bottomrule
+	\end{tabular}
+\end{table}
+
+
+
 \begin{table} [!h] \centering 
 	\begin{threeparttable}
 		\caption{Value Portfolio}
@@ -75,6 +106,7 @@ The purpose of this report is to examine the risk and return relation in the Swi
 
 \blindtext
 
+
 \begin{figure} [!h]
 	\caption{Procedure of each treatment}
  	\begin{centering}
@@ -85,8 +117,25 @@ The purpose of this report is to examine the risk and return relation in the Swi
 
 \newpage
 
+% Heatmap
+
+
+\newpage
+
+\begin{figure}
+    \begin{center}
+        \includegraphics[width=0.8\linewidth]{plot.pgf}
+    \end{center}
+    \caption{Plot with 4 lines, colorblind-friendly}
+\end{figure}
+
+\newpage
+
+
 \section{Discussion}
+
 \blindtext
+
 \newpage
 
 
