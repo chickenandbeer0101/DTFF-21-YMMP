@@ -7,9 +7,8 @@
 \usepackage{graphicx}
 \usepackage{tabularx}
 \usepackage{booktabs,dcolumn} 
-\usepackage{pgf}
+% \usepackage{pgf}
 
-% using dcolumn
 \newcolumntype{d}[1]{D..{#1}}
 \newcommand\mc[1]{\multicolumn{1}{c}{#1}}
 
@@ -122,12 +121,26 @@ The purpose of this report is to examine the risk and return relation in the Swi
 
 \newpage
 
-\begin{figure}
-    \begin{center}
-        \includegraphics[width=0.8\linewidth]{plot.pgf}
-    \end{center}
-    \caption{Plot with 4 lines, colorblind-friendly}
+\newpage
+
+
+\begin{figure} [!h]
+	\caption{Plot with 4 lines, colorblind-friendly}
+	\begin{centering}
+		\includegraphics[width=0.8\linewidth]{heatmap} \\
+	\end{centering}
 \end{figure}
+
+
+
+\begin{figure}[!h]
+	\caption{Plot with 4 lines, colorblind-friendly}
+	\begin{centering}
+		\includegraphics[width=0.8\linewidth]{color_blind_friendly_palette} \\
+	\end{centering}
+\end{figure}
+
+
 
 \newpage
 

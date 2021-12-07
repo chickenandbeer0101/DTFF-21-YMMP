@@ -6,6 +6,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3}Results}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Discussion}{6}{}%
+\contentsline {section}{\numberline {4}Discussion}{7}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5}References}{7}{}%
+\contentsline {section}{\numberline {5}References}{8}{}%

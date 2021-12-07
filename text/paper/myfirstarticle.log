@@ -1,63 +1,56 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7) (preloaded format=pdflatex 2021.10.25)  16 NOV 2021 15:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2021.8.16)  7 DEC 2021 15:19
 entering extended mode
 **./myfirstarticle.tex
 (myfirstarticle.tex
-LaTeX2e <2021-06-01> patch level 1
-L3 programming layer <2021-10-18>
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/article.cls
-Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/size10.clo
-File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count182
-\c@section=\count183
-\c@subsection=\count184
-\c@subsubsection=\count185
-\c@paragraph=\count186
-\c@subparagraph=\count187
-\c@figure=\count188
-\c@table=\count189
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/blin
-dtext/blindtext.sty
+("C:\Program Files\MiKTeX\tex/latex/blindtext\blindtext.sty"
 Package: blindtext 2012/01/06 V2.0 blindtext-Package
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
-s/xspace.sty
+("C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty"
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count190
-\c@Blindtext=\count191
-\c@blind@countparstart=\count192
-\blind@countxx=\count193
-\blindtext@numBlindtext=\count194
-\blind@countyy=\count195
-\c@blindlist=\count196
-\c@blindlistlevel=\count197
-\c@blindlist@level=\count198
-\blind@listitem=\count199
-\c@blind@listcount=\count266
-\c@blind@levelcount=\count267
-\blind@mathformula=\count268
-\blind@Mathformula=\count269
-\c@blind@randomcount=\count270
-\c@blind@randommax=\count271
-\c@blind@pangramcount=\count272
-\c@blind@pangrammax=\count273
+\c@blindtext=\count183
+\c@Blindtext=\count184
+\c@blind@countparstart=\count185
+\blind@countxx=\count186
+\blindtext@numBlindtext=\count187
+\blind@countyy=\count188
+\c@blindlist=\count189
+\c@blindlistlevel=\count190
+\c@blindlist@level=\count191
+\blind@listitem=\count192
+\c@blind@listcount=\count193
+\c@blind@levelcount=\count194
+\blind@mathformula=\count195
+\blind@Mathformula=\count196
+\c@blind@randomcount=\count197
+\c@blind@randommax=\count198
+\c@blind@pangramcount=\count199
+\c@blind@pangrammax=\count266
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thre
-eparttable/threeparttable.sty
+("C:\Program Files\MiKTeX\tex/latex/threeparttable\threeparttable.sty"
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box50
+\@tempboxb=\box47
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/book
-tabs/booktabs.sty
+("C:\Program Files\MiKTeX\tex/latex/booktabs\booktabs.sty"
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen139
 \lightrulewidth=\dimen140
@@ -69,435 +62,148 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen146
 \cmidrulekern=\dimen147
 \defaultaddspace=\dimen148
-\@cmidla=\count274
-\@cmidlb=\count275
+\@cmidla=\count267
+\@cmidlb=\count268
 \@aboverulesep=\dimen149
 \@belowrulesep=\dimen150
-\@thisruleclass=\count276
-\@lastruleclass=\count277
+\@thisruleclass=\count269
+\@lastruleclass=\count270
 \@thisrulewidth=\dimen151
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/graphicx.sty
-Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/keyval.sty
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
+\KV@toks@=\toks15
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/graphics.sty
-Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics/trig.sty
+("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics-cfg/graphics.cfg
+("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 107.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics-def/pdftex.def
+("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen152
 \Gin@req@width=\dimen153
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
-s/tabularx.sty
+("C:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty"
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
-s/array.sty
-Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+("C:\Program Files\MiKTeX\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen154
-\ar@mcellbox=\box51
+\ar@mcellbox=\box48
 \extrarowheight=\dimen155
-\NC@list=\toks17
+\NC@list=\toks16
 \extratabsurround=\skip49
 \backup@length=\skip50
-\ar@cellbox=\box52
+\ar@cellbox=\box49
 )
 \TX@col@width=\dimen156
 \TX@old@table=\dimen157
 \TX@old@col=\dimen158
 \TX@target=\dimen159
 \TX@delta=\dimen160
-\TX@cols=\count278
-\TX@ftn=\toks18
+\TX@cols=\count271
+\TX@ftn=\toks17
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tool
-s/dcolumn.sty
+("C:\Program Files\MiKTeX\tex/latex/tools\dcolumn.sty"
 Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
-basiclayer/pgf.sty
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
-utilities/pgfrcs.sty
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks19
-\pgfutil@tempdima=\dimen161
-\pgfutil@tempdimb=\dimen162
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty"
+Package: biblatex 2020/08/23 v3.15a programmable bibliographies (PK/MW)
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/utilities/pgfutil-common-lists.tex))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/utilities/pgfutil-latex.def
-\pgfutil@abb=\box53
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/utilities/pgfrcs.code.tex
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/pgf.revision.tex)
-Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
-))
-Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
-basiclayer/pgfcore.sty
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
-systemlayer/pgfsys.sty
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/systemlayer/pgfsys.code.tex
-Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks20
-\pgfkeys@temptoks=\toks21
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks22
-))
-\pgf@x=\dimen163
-\pgf@y=\dimen164
-\pgf@xa=\dimen165
-\pgf@ya=\dimen166
-\pgf@xb=\dimen167
-\pgf@yb=\dimen168
-\pgf@xc=\dimen169
-\pgf@yc=\dimen170
-\pgf@xd=\dimen171
-\pgf@yd=\dimen172
-\w@pgf@writea=\write3
-\r@pgf@reada=\read2
-\c@pgf@counta=\count279
-\c@pgf@countb=\count280
-\c@pgf@countc=\count281
-\c@pgf@countd=\count282
-\t@pgf@toka=\toks23
-\t@pgf@tokb=\toks24
-\t@pgf@tokc=\toks25
-\pgf@sys@id@count=\count283
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/systemlayer/pgf.cfg
-File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/systemlayer/pgfsys-common-pdf.def
-File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/systemlayer/pgfsyssoftpath.code.tex
-File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfsyssoftpath@smallbuffer@items=\count284
-\pgfsyssoftpath@bigbuffer@items=\count285
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/systemlayer/pgfsysprotocol.code.tex
-File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcol
-or/xcolor.sty
-Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grap
-hics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 225.
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
-Package xcolor Info: Model `RGB' extended on input line 1364.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcore.code.tex
-Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmath.code.tex
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathcalc.code.tex
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathutil.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen173
-\pgfmath@count=\count286
-\pgfmath@box=\box54
-\pgfmath@toks=\toks26
-\pgfmath@stack@operand=\toks27
-\pgfmath@stack@operation=\toks28
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.code.tex
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.basic.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.trigonometric.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.random.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.comparison.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.base.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.round.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.misc.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfunctions.integerarithmetics.code.tex)))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count287
-))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/math/pgfint.code.tex)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorepoints.code.tex
-File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@picminx=\dimen174
-\pgf@picmaxx=\dimen175
-\pgf@picminy=\dimen176
-\pgf@picmaxy=\dimen177
-\pgf@pathminx=\dimen178
-\pgf@pathmaxx=\dimen179
-\pgf@pathminy=\dimen180
-\pgf@pathmaxy=\dimen181
-\pgf@xx=\dimen182
-\pgf@xy=\dimen183
-\pgf@yx=\dimen184
-\pgf@yy=\dimen185
-\pgf@zx=\dimen186
-\pgf@zy=\dimen187
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorepathconstruct.code.tex
-File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@path@lastx=\dimen188
-\pgf@path@lasty=\dimen189
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorepathusage.code.tex
-File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@shorten@end@additional=\dimen190
-\pgf@shorten@start@additional=\dimen191
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorescopes.code.tex
-File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfpic=\box55
-\pgf@hbox=\box56
-\pgf@layerbox@main=\box57
-\pgf@picture@serial@count=\count288
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcoregraphicstate.code.tex
-File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgflinewidth=\dimen192
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcoretransformations.code.tex
-File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@pt@x=\dimen193
-\pgf@pt@y=\dimen194
-\pgf@pt@temp=\dimen195
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcoreobjects.code.tex
-File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorepathprocessing.code.tex
-File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorearrows.code.tex
-File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfarrowsep=\dimen196
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@max=\dimen197
-\pgf@sys@shading@range@num=\count289
-\pgf@shadingcount=\count290
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcoreexternal.code.tex
-File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfexternal@startupbox=\box58
-))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorelayers.code.tex
-File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcoretransparency.code.tex
-File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorepatterns.code.tex
-File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-\pgfnodeparttextbox=\box59
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pg
-f/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
-compatibility/pgfcomp-version-0-65.sty
-Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
-\pgf@nodesepstart=\dimen198
-\pgf@nodesepend=\dimen199
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/pgf/
-compatibility/pgfcomp-version-1-18.sty
-Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
-))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/biblatex.sty
-Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/pd
-ftexcmds/pdftexcmds.sty
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/in
-fwarerr/infwarerr.sty
+("C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty"
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/if
-tex/iftex.sty
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/lt
-xcmds/ltxcmds.sty
+("C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty"
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/etoo
-lbox/etoolbox.sty
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count291
+\etb@tempcnta=\count272
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/kvop
-tions/kvoptions.sty
+("C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty"
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kv
-setkeys/kvsetkeys.sty
+("C:\Program Files\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty"
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logr
-eq/logreq.sty
+("C:\Program Files\MiKTeX\tex/latex/logreq\logreq.sty"
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count292
+\lrq@indent=\count273
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/logr
-eq/logreq.def
+("C:\Program Files\MiKTeX\tex/latex/logreq\logreq.def"
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base
-/ifthen.sty
-Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/url/
-url.sty
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count293
-\c@listtotal=\count294
-\c@listcount=\count295
-\c@liststart=\count296
-\c@liststop=\count297
-\c@citecount=\count298
-\c@citetotal=\count299
-\c@multicitecount=\count300
-\c@multicitetotal=\count301
-\c@instcount=\count302
-\c@maxnames=\count303
-\c@minnames=\count304
-\c@maxitems=\count305
-\c@minitems=\count306
-\c@citecounter=\count307
-\c@maxcitecounter=\count308
-\c@savedcitecounter=\count309
-\c@uniquelist=\count310
-\c@uniquename=\count311
-\c@refsection=\count312
-\c@refsegment=\count313
-\c@maxextratitle=\count314
-\c@maxextratitleyear=\count315
-\c@maxextraname=\count316
-\c@maxextradate=\count317
-\c@maxextraalpha=\count318
-\c@abbrvpenalty=\count319
-\c@highnamepenalty=\count320
-\c@lownamepenalty=\count321
-\c@maxparens=\count322
-\c@parenlevel=\count323
-\blx@tempcnta=\count324
-\blx@tempcntb=\count325
-\blx@tempcntc=\count326
-\blx@maxsection=\count327
-\blx@maxsegment@0=\count328
-\blx@notetype=\count329
-\blx@parenlevel@text=\count330
-\blx@parenlevel@foot=\count331
-\blx@sectionciteorder@0=\count332
-\blx@entrysetcounter=\count333
-\blx@biblioinstance=\count334
+\c@tabx@nest=\count274
+\c@listtotal=\count275
+\c@listcount=\count276
+\c@liststart=\count277
+\c@liststop=\count278
+\c@citecount=\count279
+\c@citetotal=\count280
+\c@multicitecount=\count281
+\c@multicitetotal=\count282
+\c@instcount=\count283
+\c@maxnames=\count284
+\c@minnames=\count285
+\c@maxitems=\count286
+\c@minitems=\count287
+\c@citecounter=\count288
+\c@maxcitecounter=\count289
+\c@savedcitecounter=\count290
+\c@uniquelist=\count291
+\c@uniquename=\count292
+\c@refsection=\count293
+\c@refsegment=\count294
+\c@maxextratitle=\count295
+\c@maxextratitleyear=\count296
+\c@maxextraname=\count297
+\c@maxextradate=\count298
+\c@maxextraalpha=\count299
+\c@abbrvpenalty=\count300
+\c@highnamepenalty=\count301
+\c@lownamepenalty=\count302
+\c@maxparens=\count303
+\c@parenlevel=\count304
+\blx@tempcnta=\count305
+\blx@tempcntb=\count306
+\blx@tempcntc=\count307
+\blx@maxsection=\count308
+\blx@maxsegment@0=\count309
+\blx@notetype=\count310
+\blx@parenlevel@text=\count311
+\blx@parenlevel@foot=\count312
+\blx@sectionciteorder@0=\count313
+\blx@entrysetcounter=\count314
+\blx@biblioinstance=\count315
 \labelnumberwidth=\skip51
 \labelalphawidth=\skip52
 \biblabelsep=\skip53
@@ -506,91 +212,90 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibinitsep=\skip56
 \bibparsep=\skip57
 \bibhang=\skip58
-\blx@bcfin=\read3
-\blx@bcfout=\write4
+\blx@bcfin=\read2
+\blx@bcfout=\write3
 \blx@langwohyphens=\language79
-\c@mincomprange=\count335
-\c@maxcomprange=\count336
-\c@mincompwidth=\count337
+\c@mincomprange=\count316
+\c@maxcomprange=\count317
+\c@mincompwidth=\count318
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/blx-dm.def
-File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def"
+File: blx-dm.def 2020/08/23 v3.15a biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'bwl-FU.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count338
-\c@savedafterword=\count339
-\c@annotator=\count340
-\c@savedannotator=\count341
-\c@author=\count342
-\c@savedauthor=\count343
-\c@bookauthor=\count344
-\c@savedbookauthor=\count345
-\c@commentator=\count346
-\c@savedcommentator=\count347
-\c@editor=\count348
-\c@savededitor=\count349
-\c@editora=\count350
-\c@savededitora=\count351
-\c@editorb=\count352
-\c@savededitorb=\count353
-\c@editorc=\count354
-\c@savededitorc=\count355
-\c@foreword=\count356
-\c@savedforeword=\count357
-\c@holder=\count358
-\c@savedholder=\count359
-\c@introduction=\count360
-\c@savedintroduction=\count361
-\c@namea=\count362
-\c@savednamea=\count363
-\c@nameb=\count364
-\c@savednameb=\count365
-\c@namec=\count366
-\c@savednamec=\count367
-\c@translator=\count368
-\c@savedtranslator=\count369
-\c@shortauthor=\count370
-\c@savedshortauthor=\count371
-\c@shorteditor=\count372
-\c@savedshorteditor=\count373
-\c@labelname=\count374
-\c@savedlabelname=\count375
-\c@institution=\count376
-\c@savedinstitution=\count377
-\c@lista=\count378
-\c@savedlista=\count379
-\c@listb=\count380
-\c@savedlistb=\count381
-\c@listc=\count382
-\c@savedlistc=\count383
-\c@listd=\count384
-\c@savedlistd=\count385
-\c@liste=\count386
-\c@savedliste=\count387
-\c@listf=\count388
-\c@savedlistf=\count389
-\c@location=\count390
-\c@savedlocation=\count391
-\c@organization=\count392
-\c@savedorganization=\count393
-\c@origlocation=\count394
-\c@savedoriglocation=\count395
-\c@origpublisher=\count396
-\c@savedorigpublisher=\count397
-\c@publisher=\count398
-\c@savedpublisher=\count399
-\c@language=\count400
-\c@savedlanguage=\count401
-\c@origlanguage=\count402
-\c@savedoriglanguage=\count403
-\c@pageref=\count404
-\c@savedpageref=\count405
+\c@afterword=\count319
+\c@savedafterword=\count320
+\c@annotator=\count321
+\c@savedannotator=\count322
+\c@author=\count323
+\c@savedauthor=\count324
+\c@bookauthor=\count325
+\c@savedbookauthor=\count326
+\c@commentator=\count327
+\c@savedcommentator=\count328
+\c@editor=\count329
+\c@savededitor=\count330
+\c@editora=\count331
+\c@savededitora=\count332
+\c@editorb=\count333
+\c@savededitorb=\count334
+\c@editorc=\count335
+\c@savededitorc=\count336
+\c@foreword=\count337
+\c@savedforeword=\count338
+\c@holder=\count339
+\c@savedholder=\count340
+\c@introduction=\count341
+\c@savedintroduction=\count342
+\c@namea=\count343
+\c@savednamea=\count344
+\c@nameb=\count345
+\c@savednameb=\count346
+\c@namec=\count347
+\c@savednamec=\count348
+\c@translator=\count349
+\c@savedtranslator=\count350
+\c@shortauthor=\count351
+\c@savedshortauthor=\count352
+\c@shorteditor=\count353
+\c@savedshorteditor=\count354
+\c@labelname=\count355
+\c@savedlabelname=\count356
+\c@institution=\count357
+\c@savedinstitution=\count358
+\c@lista=\count359
+\c@savedlista=\count360
+\c@listb=\count361
+\c@savedlistb=\count362
+\c@listc=\count363
+\c@savedlistc=\count364
+\c@listd=\count365
+\c@savedlistd=\count366
+\c@liste=\count367
+\c@savedliste=\count368
+\c@listf=\count369
+\c@savedlistf=\count370
+\c@location=\count371
+\c@savedlocation=\count372
+\c@organization=\count373
+\c@savedorganization=\count374
+\c@origlocation=\count375
+\c@savedoriglocation=\count376
+\c@origpublisher=\count377
+\c@savedorigpublisher=\count378
+\c@publisher=\count379
+\c@savedpublisher=\count380
+\c@language=\count381
+\c@savedlanguage=\count382
+\c@origlanguage=\count383
+\c@savedoriglanguage=\count384
+\c@pageref=\count385
+\c@savedpageref=\count386
 \shorthandwidth=\skip59
 \shortjournalwidth=\skip60
 \shortserieswidth=\skip61
@@ -608,16 +313,36 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/blx-compat.def
-File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def"
+File: blx-compat.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+)
+("C:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2020-10-27 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count387
+\l__pdf_internal_box=\box50
+))
+Package biblatex Info: expl3
+(biblatex)             2020-10-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+Package biblatex Info: Trying to load expl3 case changing code...
+Package biblatex Info: ... file 'blx-case-expl3.def' found.
+
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-case-expl3.def"
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+("C:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex"))
+File: blx-case-expl3 2020/08/23 v3.15a expl3 case changing code for biblatex
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/blx-bibtex.def
-File: blx-bibtex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-bibtex.def"
+File: blx-bibtex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
 
 
 Package biblatex Warning: Using fall-back BibTeX(8) backend:
@@ -626,57 +351,50 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/biblatex.def
-File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count406
-\c@textcitetotal=\count407
-\c@textcitemaxnames=\count408
-\c@biburlbigbreakpenalty=\count409
-\c@biburlbreakpenalty=\count410
-\c@biburlnumpenalty=\count411
-\c@biburlucpenalty=\count412
-\c@biburllcpenalty=\count413
+ ("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def"
+File: biblatex.def 2020/08/23 v3.15a biblatex compatibility (PK/MW)
+\c@textcitecount=\count388
+\c@textcitetotal=\count389
+\c@textcitemaxnames=\count390
+\c@biburlbigbreakpenalty=\count391
+\c@biburlbreakpenalty=\count392
+\c@biburlnumpenalty=\count393
+\c@biburlucpenalty=\count394
+\c@biburllcpenalty=\count395
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count414
+\c@smartand=\count396
 )
 Package biblatex Info: Trying to load bibliography style 'bwl-FU'...
 Package biblatex Info: ... file 'bwl-FU.bbx' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex-bwl/bwl-FU.bbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex-bwl\bwl-FU.bbx"
 File: bwl-FU.bbx 2012/05/19 v0.02 biblatex bibliography style
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/bbx/authoryear.bbx
-File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\authoryear.bbx"
+File: authoryear.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/bbx/standard.bbx
-File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count415
-\c@bbx:relatedtotal=\count416
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx"
+File: standard.bbx 2020/08/23 v3.15a biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count397
+\c@bbx:relatedtotal=\count398
 )))
 Package biblatex Info: Trying to load citation style 'bwl-FU'...
 Package biblatex Info: ... file 'bwl-FU.cbx' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex-bwl/bwl-FU.cbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex-bwl\bwl-FU.cbx"
 File: bwl-FU.cbx 2012/05/19 v0.02 biblatex citation style
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/cbx/authoryear.cbx
-File: authoryear.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+("C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\authoryear.cbx"
+File: authoryear.cbx 2020/08/23 v3.15a biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -690,80 +408,53 @@ Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/biblatex.cfg
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg"
 File: biblatex.cfg 
 ))
-\@quotelevel=\count417
-\@quotereset=\count418
+\@quotelevel=\count399
+\@quotereset=\count400
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3ba
-ckend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count419
-\l__pdf_internal_box=\box60
-) (myfirstarticle.aux)
+(myfirstarticle.aux)
 \openout1 = `myfirstarticle.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/context/ba
-se/mkii/supp-pdf.mkii
+("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count420
-\scratchdimen=\dimen256
-\scratchbox=\box61
-\nofMPsegments=\count421
-\nofMParguments=\count422
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count423
-\MPscratchDim=\dimen257
-\MPnumerator=\count424
-\makeMPintoPDFobject=\count425
-\everyMPtoPDFconversion=\toks30
-)
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epst
-opdf-pkg/epstopdf-base.sty
+\scratchcounter=\count401
+\scratchdimen=\dimen161
+\scratchbox=\box51
+\nofMPsegments=\count402
+\nofMParguments=\count403
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count404
+\MPscratchDim=\dimen162
+\MPnumerator=\count405
+\makeMPintoPDFobject=\count406
+\everyMPtoPDFconversion=\toks19
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/grfe
-xt/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/generic/kv
-definekeys/kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-))
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00mi
-ktex/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/lbx/english.lbx
-File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+("C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx"
+File: english.lbx 2020/08/23 v3.15a biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
@@ -771,103 +462,86 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Input encoding 'utf8' specified.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
-Package biblatex Info: Document encoding is UTF8 ....
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3ke
-rnel/expl3.sty
-Package: expl3 2021-10-18 L3 programming layer (loader) 
-)
-Package biblatex Info: ... and expl3
-(biblatex)             2021-10-18 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/bibl
-atex/blx-case-expl3.sty
-(/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3pa
-ckages/xparse/xparse.sty
-Package: xparse 2021-08-27 L3 Experimental document command parser
-)
-Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
-)
-\openout4 = `myfirstarticle-blx.bib'.
+\openout3 = `myfirstarticle-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'myfirstarticle.bbl' found.
- (myfirstarticle.bbl
+
+(myfirstarticle.bbl
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'Milgrom1982':
 (biblatex)                - Invalid format of field 'month'.
 
 )
-Package biblatex Info: Reference section=0 on input line 33.
-Package biblatex Info: Reference segment=0 on input line 33.
+Package biblatex Info: Reference section=0 on input line 32.
+Package biblatex Info: Reference segment=0 on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 41.
+(Font)              <12> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 41.
+(Font)              <8> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 41.
+(Font)              <6> on input line 40.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 41.
+(Font)              <5> on input line 40.
  [1
 
-{/Users/PILLEE/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdf
-tex.map}] (myfirstarticle.toc)
-\tf@toc=\write5
-\openout5 = `myfirstarticle.toc'.
+{C:/Users/matth/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(myfirstarticle.toc)
+\tf@toc=\write4
+\openout4 = `myfirstarticle.toc'.
 
  [2] [3] [4]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 73.
-<phases.png, id=25, 435.87843pt x 66.2475pt>
+(Font)              <7> on input line 72.
+<phases.png, id=22, 435.87843pt x 66.2475pt>
 File: phases.png Graphic file (type png)
 <use phases.png>
-Package pdftex.def Info: phases.png  used on input line 113.
+Package pdftex.def Info: phases.png  used on input line 112.
 (pdftex.def)             Requested size: 276.00105pt x 41.94841pt.
  [5 <./phases.png>]
+<heatmap.png, id=28, 433.62pt x 289.08pt>
+File: heatmap.png Graphic file (type png)
+<use heatmap.png>
+Package pdftex.def Info: heatmap.png  used on input line 130.
+(pdftex.def)             Requested size: 276.00105pt x 184.00926pt.
+<color_blind_friendly_palette.png, id=30, 433.62pt x 289.08pt>
+File: color_blind_friendly_palette.png Graphic file (type png)
+<use color_blind_friendly_palette.png>
+Package pdftex.def Info: color_blind_friendly_palette.png  used on input line 1
+39.
+(pdftex.def)             Requested size: 276.00105pt x 184.00926pt.
+ [6 <./heatmap.png> <./color_blind_friendly_palette.png>] [7] [8] (myfirstartic
+le.aux)
 
-! LaTeX Error: Unknown graphics extension: .pgf.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 ...degraphics[width=0.8\linewidth]{plot.pgf}
-                                                  
-? 
-[6] [7] (myfirstarticle.aux)
 Package logreq Info: Writing requests to 'myfirstarticle.run.xml'.
 \openout1 = `myfirstarticle.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 17515 strings out of 478908
- 351474 string characters out of 2842916
- 839199 words of memory out of 3000000
- 35103 multiletter control sequences out of 15000+600000
- 408700 words of font info for 44 fonts, out of 8000000 for 9000
+ 9384 strings out of 479832
+ 174626 string characters out of 2880873
+ 663461 words of memory out of 3000000
+ 26255 multiletter control sequences out of 15000+200000
+ 540358 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,75p,1858b,1160s stack positions out of 5000i,500n,10000p,200000b,80000s
- </Users/PILLEE/Library/Application Support/MiKTeX/texmfs/data/fonts/pk/ljfou
-r/jknappen/ec/dpi600/tcrm0600.pk> </Users/PILLEE/Library/Application Support/Mi
-KTeX/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0800.pk></Users/PILLEE/
-Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/c
-m/cmbx10.pfb></Users/PILLEE/Library/Application Support/MiKTeX/texmfs/install/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb></Users/PILLEE/Library/Application Sup
-port/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb></Users/PI
-LLEE/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfo
-nts/cm/cmr10.pfb></Users/PILLEE/Library/Application Support/MiKTeX/texmfs/insta
-ll/fonts/type1/public/amsfonts/cm/cmr12.pfb></Users/PILLEE/Library/Application 
-Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></Users/
-PILLEE/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/ams
-fonts/cm/cmr8.pfb></Users/PILLEE/Library/Application Support/MiKTeX/texmfs/inst
-all/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/PILLEE/Library/Applicatio
-n Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on myfirstarticle.pdf (7 pages, 158032 bytes).
+ 66i,11n,73p,1858b,1151s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+0600.pk> <C:\Users\matth\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcrm0800.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
+m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on myfirstarticle.pdf (8 pages, 170143 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 18 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
