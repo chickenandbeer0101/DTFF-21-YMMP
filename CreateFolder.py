@@ -4,15 +4,16 @@
 import os
 
 #Import Env Variables
-Research_Path=os.environ.get('RESEARCH_PATH')
+RESEARCH_PATH=os.environ.get('RESEARCH_PATH')
 
-#Promt Name for new directory 
-new_project= input("Enter name for new directory: ")
+def CreateFolder(new_project):
+    #Promt Name for new directory 
+    new_project= input("Enter name for new directory: ")
 
-#Create dir in Reseach PathFolder
-os.mkdir(Research_Path + "/" + new_project)
+    #Create dir in Reseach PathFolder
+    os.mkdir(RESEARCH_PATH + "/" + new_project)
 
-print(new_project+"has been created")
+    print(new_project+"has been created")
 
 
 
