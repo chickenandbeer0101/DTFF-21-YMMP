@@ -9,3 +9,6 @@ data/*
 .ipynb_checkpoints/*
 __pycache__
 __pycache__/*
+
+#tex files
+.log
