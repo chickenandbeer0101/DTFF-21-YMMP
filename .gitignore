@@ -1,0 +1,11 @@
+data/*
+!data/description.txt
+!data/connect.py
+!data/downstream.py
+!data/upstream.py
+
+#python and jupyter files
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+__pycache__
+__pycache__/*
